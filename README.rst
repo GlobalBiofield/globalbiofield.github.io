@@ -4,6 +4,8 @@ Global Biofield (GBF) Grand Challenge
 
 A vast river of viruses, phages, and virus-like particles—the **biofield**—flows around through each of us.  The biofield is transmitted through ingestion of foods, liquids, and aerosols.  Parts of the biofield are selectively amplified by interactions with hosts.  Readily carried intercontinentally by winds aloft, an estimated 9 billion biofield agents fall on each square meter of earth each day.  Airborne flux may play a part in global transmission of infectious diseases.  Biofield agents are also the largest single reservoir of carbon in the world’s oceans, with some 150 GT of them circulating.  Only a minuscule fraction of the biofield are viruses infectious to humans, while a slightly larger fraction infects non-human eukaryotic hosts.  But the bulk of the biofield consists of agents whereby bacteria carry out horizontal gene transfer and conduct warfare on each other.  These agents can have significant impacts on human health through influencing the ecology of the gut microbiome, which is known to play roles in antibiotic resistance, obesity, infection, and inflammation.  A recent survey found over 2000 strong associations between phages and human diseases.  While we know a lot about viruses that infect humans, there are a lot of open questions about the biofield as a whole.  On balance, is the biofield a positive force for health?  What are the barriers to biofield agents jumping hosts? How is the biofield is changed by urbanization and climate change?  Is there an biofield associated with wellness?  The biofield can be quantified and studied through metagenomic sequencing of stool samples from individuals, families, social groups, as well as environment samples.   **Our Grand Challenge is to characterize the biofield associated with human health and disease around the globe.**
 
+See the accompanying `wiki <../wiki/Global-Biofield-Grand-Challenge-Overview>`_ for a series of questions and answers.
+
 Aims
 ----
 1. Enable ML-driven hypothesis discovery of the interplay among human disease, wellness, and environment as reflected in the hierarchically-sampled biofield of global (mostly rural) populations.
@@ -12,7 +14,7 @@ Aims
 
 Technical Approach
 ------------------
-Metagenomic biofield samples from clinics, families, and individuals published along with de-identified health and environmental metadata, video of local food markets and drone footage, searchable by indices of sequence, video, and essays.  There is a major decision to be made—elided for now—about on-site nanopore sequencing versus short-read sequencing at regional facilities, with arguments to be made for both on the bases of cost, technical merit, and human factors.
+Metagenomic biofield samples from clinics, families, and individuals published along with de-identified health and environmental metadata, video of local food markets and drone footage, searchable by indices of sequence, video, and essays.  There is a major decision to be made—elided for now—about on-site nanopore sequencing versus short-read sequencing at regional facilities, with arguments to be made for both on the bases of cost, technical merit, and human factors.  Another major decision is whether to included RNA viruses as well as DNA viruses.
 
 Scale
 -----
