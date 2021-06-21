@@ -39,14 +39,14 @@ We envision Workforce Development Core being led by a physician/scientist skille
 ## Teaming
 We envision Teaming Core to be led by a scientist with strong knowledge of in-country clinic practice and conditions as well as teleclinical work.  Teaming will select local clinics that can host Scholars, and will supervise interactions among Scholars, clinicians, schools, and the public.  each week to collect roughly average, 1 sample per day, in addition to getting consent, training clinicians, writing essays, taking video, and interacting with selected families, individuals, and schools.  Teaming will work to identify, recognize, and reward Scholars that perform exceptionally well, and to make the project fun by recognizing milestones achieved.  Teaming also has an important role in engagement with clinician and public-health user groups.
 
-### Data Collection
+## Data Collection
 
 We envision the Data Collection Core to be led by a scientist with a strong record in viral metagenomics.  Early on, this core will be focused on the technical means of sampling and sequencing to find the best compromise among costs, simplicity, data depth/length, and Scholar workload.  This core will have strong pressures from sequencing costs, and potential cost sharing as well as public export of equipment and protocols with a sequencing vendor might be important.
 
-### Standards
+## Standards
 We envision Standards Core to be led by a physician/scientist with a strong record in leading ML-related Common Fund activities.   Standards has the critical role of maintaining dictionaries, depositing data and metadata into appropriate repositories, and enabling access to data.  Standards has responsibility for the interface to the ML community, maintains the resources for cloud access of GBF data, and runs the annual data jamboree. Standards acts as the voice for the ML consumer, balancing the simplicity that uniform data collection strategies offer against hybrid data-collection approaches that get results more quickly but result in headaches for future ML data consumers.  
 
-### Tool Development
+## Tool Development
 We envision the Tool Development Core to be led by a scientist with a strong record in fielding software for phylogenetic analysis that provide immediate feedback on sample quality, diversity, divergence, and phylogenetic distribution.  Because Bridge2AI is aimed at hypothesis generation and not hypothesis testing, maximizing the novelty/surprise in samples is a priority, so tools to assess this will need to run quickly on laptops in the field.  This Core will develop ML tools that Ethics will use to direct sampling activities. Tool Development will also conduct research and write software that enables efficient search of biofield sequences via indices of sequence-based signatures.
 
 # Resources
