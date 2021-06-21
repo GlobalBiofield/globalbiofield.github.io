@@ -1,12 +1,16 @@
 # Global Biofield (GBF) Grand Challenge
 
-.. image:: https://github.com/GlobalBiofield/globalbiofield.github.io/blob/main/_static/globalbiofield-logo.jpg
+![Biofield Logo](https://github.com/GlobalBiofield/globalbiofield.github.io/blob/main/_static/globalbiofield-logo.jpg)
 
-A vast river of viruses, phages, and virus-like particles—the **biofield**—flows around through each of us.  The biofield is transmitted through ingestion of foods, liquids, and aerosols.  Parts of the biofield are selectively amplified by interactions with hosts.  Readily carried intercontinentally by winds aloft, an estimated 9 billion biofield agents fall on each square meter of earth each day.  Airborne flux may play a part in global transmission of infectious diseases.  Biofield agents are also the largest single reservoir of carbon in the world’s oceans, with some 150 gigatons of them circulating.  Only a minuscule fraction of the biofield are viruses infectious to humans, while a slightly larger fraction infects non-human eukaryotic hosts.  But the bulk of the biofield consists of agents whereby bacteria carry out horizontal gene transfer and conduct warfare on each other.  These agents can have significant impacts on human health through influencing the ecology of the gut microbiome, which is known to play roles in antibiotic resistance, obesity, infection, and inflammation.  A recent survey found over _`2000 strong associations between phages and human diseases<>`_.  While we know a lot about viruses that infect humans, there are a lot of open questione, is the biofield a positive force for health?  What are the barriers to biofield agents jumping hosts? How is the biofield is changed by urbanization and climate change?  Is there an biofield associated with wellness?  The biofield can be quantified and studied through metagenomic sequencing of stool samples from individuals, families, social groups, as well as environment samples.   **Our Grand Challenge is to characterize the biofield associated with humans in health and disease around the globe.**
+A vast river of viruses, phages, and virus-like particles—the **biofield**—flows around through each of us.  The biofield is transmitted through ingestion of foods, liquids, and aerosols.  Parts of the biofield are selectively amplified by interactions with hosts.  Readily carried intercontinentally by winds aloft, an estimated 9 billion biofield agents fall on each square meter of earth each day.  Airborne flux may play a part in global transmission of infectious diseases.  Biofield agents are also the largest single reservoir of carbon in the world’s oceans, with some 150 gigatons of them circulating.  Only a minuscule fraction of the biofield are viruses infectious to humans, while a slightly larger fraction infects non-human eukaryotic hosts.  But the bulk of the biofield consists of agents whereby bacteria carry out horizontal gene transfer and conduct warfare on each other.  These agents can have significant impacts on human health through influencing the ecology of the gut microbiome, which is known to play roles in antibiotic resistance, obesity, infection, and inflammation.  A recent survey found over [2000 strong associations between phages and human diseases](https://www.pnas.org/content/118/23/e2023202118).  While we know a lot about viruses that infect humans, there are a lot of open questions about the biofield as a whole, such as:
+- Is the biofield a positive force for health?
+- What are the barriers to biofield agents jumping hosts?
+- How is the biofield is changed by urbanization and climate change? 
+- Is there an biofield associated with wellness?
+The biofield can be quantified and studied through metagenomic sequencing of stool samples from individuals, families, social groups, as well as environment samples.   **Our Grand Challenge is to characterize the biofield associated with humans in health and disease around the globe.**
 
 
-
-See the accompanying `FAQs <https://github.com/GlobalBiofield/globalbiofield.github.io/wiki/Global-Biofield-Grand-Challenge-Overview>`_ for a series of questions and answers.  You may post anything you like at the `discussion channel <https://github.com/GlobalBiofield/globalbiofield.github.io/discussions>`_ or on the `mailing list <https://groups.io/g/Biofield>`_.
+See the accompanying [FAQs](https://github.com/GlobalBiofield/globalbiofield.github.io/wiki/Global-Biofield-Grand-Challenge-Overview) for a series of questions and answers.  You may post anything you like at the [discussion channel](https://github.com/GlobalBiofield/globalbiofield.github.io/discussions) or on the [mailing list](https://groups.io/g/Biofield).
 
 ## Aims
 1. Enable ML-driven hypothesis discovery of the interplay among human disease, wellness, and environment as reflected in the hierarchically-sampled biofield of global (mostly rural) populations.
@@ -19,15 +23,15 @@ Metagenomic biofield samples from clinics, families, and individuals published a
 ## Scale
 Assuming sequencing costs can be driven from $200/sample in the first year to around $100/sample in the subsequent years, then funding at a level of $4.8M/year for 4 years would result in roughly 50 Scholars from 25 countries collecting resulting in 8 to 30 TB of indexed biofield data from 17,000 global samples with associated health metadata, video, and essays.
 
-## Cores
+# Cores
 
-### Ethics Core
+## Ethics Core
 We envision that Ethics drives the data acquisition process.  This Core would be best led by a scientist with strong credentials in global health, health records, and local conditions.   The Ethics Core will select which countries (other then the US) which be G countries, and deliver deep knowledge on potential host clinics as well as health and infectious-disease issues for each country chosen.   They will direct each Scholar’s journey in their country to maximize likely biofield diversity and conduct retrospective analyses to improve strategy.  Ethics will use local laws and customs as well as informed-consent knowledge, to establish procedures for consent and de-identification of data.  The Ethics Core will also determine if and when local conditions warrant redirecting a Scholar from the survey activities to a developing local health crisis if their skills would prove useful there.
 
-### Workforce Development
+## Workforce Development
 We envision Workforce Development Core being led by a physician/scientist skilled in training and curriculum development for global health professionals. Each year, they will select 7 to 15 Global Biofield Scholars from 2 to 12 GBF countries, with written communication ability in English a strong selection criterion. Each Scholar will be trained to carry out all operations: sampling, sample prep, sequencing, metadata collection, data deposition, writing essays on collection, and simple interpretation of results.  Development will emphasize the production of self-reliant Scholars whose curiosity drives their work. Scholars from previous years may be added to the training team for future years, using their field knowledge to improve training.  
 
-### Teaming
+## Teaming
 We envision Teaming Core to be led by a scientist with strong knowledge of in-country clinic practice and conditions as well as teleclinical work.  Teaming will select local clinics that can host Scholars, and will supervise interactions among Scholars, clinicians, schools, and the public.  each week to collect roughly average, 1 sample per day, in addition to getting consent, training clinicians, writing essays, taking video, and interacting with selected families, individuals, and schools.  Teaming will work to identify, recognize, and reward Scholars that perform exceptionally well, and to make the project fun by recognizing milestones achieved.  Teaming also has an important role in engagement with clinician and public-health user groups.
 
 ### Data Collection
