@@ -30,7 +30,7 @@ Assuming sequencing costs can be driven from $200/sample in the first year to ar
 
 # Cores
 
-## Ethics Core
+## Ethics
 We envision that Ethics drives the data acquisition process.  This Core would be best led by a scientist with strong credentials in global health, health records, and local conditions.   The Ethics Core will select which countries (other then the US) which be G countries, and deliver deep knowledge on potential host clinics as well as health and infectious-disease issues for each country chosen.   They will direct each Scholar’s journey in their country to maximize likely biofield diversity and conduct retrospective analyses to improve strategy.  Ethics will use local laws and customs as well as informed-consent knowledge, to establish procedures for consent and de-identification of data.  The Ethics Core will also determine if and when local conditions warrant redirecting a Scholar from the survey activities to a developing local health crisis if their skills would prove useful there.
 
 ## Workforce Development
