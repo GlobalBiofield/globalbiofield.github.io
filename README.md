@@ -26,7 +26,7 @@ The biofield can be quantified and studied through metagenomic sequencing of sto
 Metagenomic biofield samples from clinics, families, and individuals published along with de-identified health and environmental metadata, video of local food markets and drone footage, searchable by indices of sequence, video, and essays.  There is a major decision to be made—elided for now—about on-site nanopore sequencing versus short-read sequencing at regional facilities, with arguments to be made for both on the bases of cost, technical merit, and human factors.  Another major decision is whether to included RNA viruses as well as DNA viruses.
 
 ## Scale
-Assuming sequencing costs can be driven from $200/sample in the first year to around $100/sample in the subsequent years, then funding at a level of $4.8M/year for 4 years would result in roughly 50 Scholars from 25 countries collecting resulting in 8 to 30 TB of indexed biofield data from 17,000 global samples with associated health metadata, video, and essays.
+Assuming sequencing costs can be driven from $200/sample in the first year to around $100/sample in the subsequent years, then funding at a level of $4.8M/year for 4 years would result in roughly 50 Scholars from 25 countries collecting resulting in 10 to 30 TB of indexed biofield data from 17,000 samples in 2,400 global locations with associated health metadata, video, and essays.
 
 # Cores
 
